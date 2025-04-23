@@ -1,0 +1,42 @@
+export const books = [
+  {
+    author: "Chinua Achebe",
+    country: "Nigeria",
+    language: "English",
+    pages: 209,
+    title: "Things Fall Apart",
+    year: 1958,
+  },
+  {
+    author: "Chinua 1",
+    country: "usa",
+    language: "English",
+    pages: 200,
+    title: "Things Fall Apart",
+    year: 1958,
+  },
+  {
+    author: "Ali",
+    country: "Pakistan",
+    language: "Urdu",
+    pages: 300,
+    title: "Pakistan Study",
+    year: 2025,
+  },
+  {
+    author: "Ahmad",
+    country: "Pakistan",
+    language: "Urdu",
+    pages: 319,
+    title: "Things Fall Apart",
+    year: 1958,
+  },
+  {
+    author: "Chinua Achebe",
+    country: "Nigeria",
+    language: "English",
+    pages: 400,
+    title: "Things Fall Apart",
+    year: 2000,
+  },
+];
